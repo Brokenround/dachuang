@@ -1,0 +1,6 @@
+torch
+pytorch-pretrained-bert==0.4.0
+transformers
+tensorboardX
+numpy
+tqdm
